@@ -14,3 +14,8 @@ def new_in_main():
 
 def second_new_main():
     return 'Second commit in main'
+
+
+def changes_in_forth():
+    return f"Changes in forth branch {count}"
+
