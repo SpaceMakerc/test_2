@@ -6,3 +6,7 @@ def function_in_second_branch():
     """
     print(count)
     return count + 10
+
+
+def new_in_main():
+    return 'I am a new one'
