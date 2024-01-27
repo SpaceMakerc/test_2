@@ -10,3 +10,7 @@ def function_in_second_branch():
 
 def new_in_main():
     return 'I am a new one'
+
+
+def second_new_main():
+    return 'Second commit in main'
