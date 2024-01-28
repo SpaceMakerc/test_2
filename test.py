@@ -22,5 +22,6 @@ def changes_in_forth():
 # Comment for rebase
 # One more comment
 # comment
+# The comment
 
 print("Merge is equal pull Request")
