@@ -20,6 +20,7 @@ def changes_in_forth():
     return f"Changes in forth branch {count}"
 
 # Comment for rebase
+# comment
 # One
 # comment
 # The comment
